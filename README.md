@@ -7,3 +7,4 @@
 
  参数：--public 公开 | --ornament red-bauble | --gap 800 | --retry 3
 ```
+不会用让任意agent帮你装。
